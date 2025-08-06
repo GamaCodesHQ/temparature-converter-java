@@ -7,11 +7,9 @@ A simple Java program that converts Celsius to Fahrenheit using a basic conversi
 This program uses the formula:
 Fahrenheit = (Celsius × 9/5) + 32
 
-## 🚀 How to Run
-
-1. Clone the repo:
-```bash
-git clone https://github.com/GamaCodesHQ/temperature-converter-java.git
-javac src/TemperatureConverter.java
-java src.TemperatureConverter
+## Features
+- Convert Celsius to Fahrenheit
+- Convert Fahrenheit to Celsius
+- Interactive CLI using Scanner
+- Runs in a loop until user exits
 
